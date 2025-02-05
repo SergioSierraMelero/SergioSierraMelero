@@ -2,7 +2,7 @@
 # 👋 ¡Hola! Soy Sergio Sierra Melero.
 
 ## Sobre mí
-Tengo 21 años (nacido el 23 de diciembre de 2002) y soy un apasionado por la tecnología y el mundo digital. Actualmente estoy estudiando Inteligencia Artificial y he acumulado experiencia laboral en diversos sectores.
+Tengo 22 años (nacido el 23 de diciembre de 2002) y soy un apasionado por la tecnología y el mundo digital. Actualmente estoy estudiando Inteligencia Artificial y he acumulado experiencia laboral en diversos sectores.
 
 ## 🛠️ Experiencia Laboral
 
