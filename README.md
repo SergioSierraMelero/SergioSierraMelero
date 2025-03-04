@@ -6,6 +6,13 @@ Tengo 22 años (nacido el 23 de diciembre de 2002) y soy un apasionado por la te
 
 ## 🛠️ Experiencia Laboral
 
+### Asistente de Marketing y Management de Influencers
+**2btube**  
+*Marzo 2023 - Noviembre 2024*  
+- Soporte en campañas de marketing digital y gestión de redes sociales.
+- Coordinación y comunicación con influencers para campañas publicitarias.
+- Análisis de métricas y elaboración de informes de rendimiento.
+
 ### Trabajador en Imprenta
 **RotoMadrid**  
 *Julio 2022 - Marzo 2024*  
@@ -19,13 +26,6 @@ Tengo 22 años (nacido el 23 de diciembre de 2002) y soy un apasionado por la te
 - Apoyo en la gestión y distribución de recursos sanitarios durante la pandemia del COVID-19.
 - Coordinación de citas y gestión de datos de pacientes.
 - Asistencia en la implementación de protocolos de seguridad sanitaria.
-
-### Asistente de Marketing y Management de Influencers
-**2btube**  
-*Marzo 2023 - Noviembre 2024*  
-- Soporte en campañas de marketing digital y gestión de redes sociales.
-- Coordinación y comunicación con influencers para campañas publicitarias.
-- Análisis de métricas y elaboración de informes de rendimiento.
 
 ### Asistente de Logística
 **WorkOut Events**  
